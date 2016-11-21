@@ -47,3 +47,11 @@ body {
   position: absolute;
   top: 20px;
 }
+
+.robot-head-right {
+  right: 35px;
+}
+
+.robot-head-left {
+  left: 35px;
+}
