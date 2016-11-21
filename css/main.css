@@ -37,10 +37,13 @@ body {
   width: 46px;
   position: absolute;
   transform: translateX(-50%);
+  left: 50%;
+  top: 60px;
 }
 
 .robot-head-right,
 .robot-head-left {
   width: 125px;
   position: absolute;
+  top: 20px;
 }
